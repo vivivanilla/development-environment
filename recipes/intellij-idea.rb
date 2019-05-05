@@ -4,4 +4,4 @@ end
 
 apt_update
 
-package 'intellij-idea-ultimate'
+package 'intellij-idea-community'
